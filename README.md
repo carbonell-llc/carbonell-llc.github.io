@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+# Carbonell LLC
 
-You can use the [editor on GitHub](https://github.com/carbonell-llc/carbonell-llc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Want to build a custom software, application, or IoT solution? Then reach out and [scehdule an introductory call](https://calendly.com/the-luis-carbonell/30min) with me! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm here to help you out!
 
-### Markdown
+## Services
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here are just of the services we have offered to our clients in the past. If you have a doubt whether we can help you out, just [schedule a call](https://calendly.com/the-luis-carbonell/30min) with me and we can walk through it together.
 
-```markdown
-Syntax highlighted code block
+**Web**
 
-# Header 1
-## Header 2
-### Header 3
+- React
+- Vue
+- Svelte
+- jQuery
 
-- Bulleted
-- List
+**Mobile**
 
-1. Numbered
-2. List
+- Native
+- React Native
+- NativeScript
+- Ionic
 
-**Bold** and _Italic_ and `Code` text
+**APIs, Databases, and More**
 
-[Link](url) and ![Image](src)
-```
+- Programming Langues Supported:
+  - Node.js & Javascript
+  - PHP
+  - Python
+  - Java
+  - C/C++
+  - Rust
+- Databases Supported:
+  - MySQL & PostgreSQL _(and other relational DBs)_
+  - MongoDB _(and other object/document DBs)_
+  - Neo4J _(and other graph DBs)_
+  - Redis
+- Machine Learning _(PyTorch, TensorFlow, etc.)_
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## FAQs
 
-### Jekyll Themes
+**What to expect when I [book a call](https://calendly.com/the-luis-carbonell/30min)?**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carbonell-llc/carbonell-llc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The calls are really simple and high-level! I'll ask you a couple of questions to better understand what your business or project needs and determine the ideal next steps. 
 
-### Support or Contact
+**How does it cost to [book a call](https://calendly.com/the-luis-carbonell/30min)?**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Booking a call is ABSOLUTELY FREE! Once we finish our introductory call, we'll determine the scope of work together and see if the project is a good fit for both of us along with pricing and other details.
+
+**How fast can I expect my project, application, or website to be finished after I [book a call](https://calendly.com/the-luis-carbonell/30min)?**
+
+It varies! For smaller projects, like cool landing pages, you should have everything in your hands with 1-2 weeks. For larger projects, like custom mobile application, administrative dashboards, custom API integrations, or comparable projects it can take up to 6 months. 
+
+### Contact or Support
+
+If you have questions, cool ideas, or just want to if I can help your business grow, [book a quick 30-minute call](https://calendly.com/the-luis-carbonell/30min) or reach out to me directly via phone _(below)_ or email _(below)_.
+
+**Phone:** _+1 (786) 973-6286_
+
+**Email:** _the.luis.carbonell@gmail.com_
